@@ -1,2 +1,5 @@
 # projetinho-lista-de-tarefas
-Created with CodeSandbox
+
+curso-react-para-iniciantes!!
+
+Link para o projeto [aqui](https://xy672.csb.app/)
